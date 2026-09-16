@@ -82,30 +82,26 @@ I particularly enjoy working on projects where **technology, business, and desig
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Antony-och&show_icons=true&theme=tokyonight&hide_border=true&rank=false"
+    src="https://github-stats-extended.vercel.app/api?username=Antony-och&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="180"
-    alt="Antony's GitHub Stats"
+    alt="GitHub Statistics"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antony-och&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antony-och&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
-    alt="Antony's Top Languages"
+    alt="Most Used Languages"
   />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Antony-och&theme=tokyonight&hide_border=true&border_radius=10"
     height="180"
-    alt="Antony's GitHub Contribution Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -115,10 +111,16 @@ I particularly enjoy working on projects where **technology, business, and desig
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-och&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-och&theme=tokyo-night&hide_border=true&area=true&custom_title=Antony's%20Contribution%20Activity"
     width="100%"
-    alt="Antony's GitHub Activity Graph"
+    alt="Contribution Activity Graph"
   />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and shipping one project at a time.</i>
 </p>
 
 
