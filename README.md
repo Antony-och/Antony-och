@@ -86,13 +86,13 @@ I particularly enjoy working on projects where **technology, business, and desig
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Antony-och&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=Antony-och&show_icons=true&theme=tokyonight&hide_border=true&rank=false"
+    height="180"
     alt="Antony's GitHub Stats"
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antony-och&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
     alt="Antony's Top Languages"
   />
 </p>
@@ -103,10 +103,24 @@ I particularly enjoy working on projects where **technology, business, and desig
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Antony-och&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Antony-och&theme=tokyonight&hide_border=true&border_radius=10"
+    height="180"
     alt="Antony's GitHub Contribution Streak"
   />
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-och&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Antony's GitHub Activity Graph"
+  />
+</p>
+
 
 ---
 
