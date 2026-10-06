@@ -141,12 +141,11 @@ I'm especially interested in projects where **technology solves a real business 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Antony-och&theme=tokyo-night&hide_border=true&area=true&custom_title=Antony's%20Contribution%20Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antony-och&theme=tokyonight"
     width="100%"
-    alt="Antony's Contribution Activity"
+    alt="Antony's GitHub Contribution Activity"
   />
 </p>
-
 ---
 
 # 🎯 Currently
