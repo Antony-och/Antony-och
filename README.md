@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey, I'm Antony
 
 ### Full-Stack Developer · UI/UX Enthusiast · Digital Builder 🇰🇪
@@ -6,173 +8,120 @@ I build **modern web applications, business platforms, and digital products** th
 
 My work sits at the intersection of **development, design, and business** — turning ideas into products that are useful, scalable, and enjoyable to use.
 
-```text
-💻 Build     🎨 Design     ⚙️ Solve     🚀 Ship
-```
+<br/>
+
+[![Build](https://img.shields.io/badge/💻_Build-Modern_Web_Apps-0052CC?style=for-the-badge)](#)
+[![Design](https://img.shields.io/badge/🎨_Design-Clean_Interfaces-FF5630?style=for-the-badge)](#)
+[![Solve](https://img.shields.io/badge/⚙️_Solve-Complex_APIs-36B37E?style=for-the-badge)](#)
+[![Ship](https://img.shields.io/badge/🚀_Ship-Digital_Products-6554C0?style=for-the-badge)](#)
+
+<br/>
 
 ---
 
+</div>
+
 ## 🚀 What I Do
 
-- 🌐 Build modern full-stack web applications
-- 🎨 Design clean, responsive, user-focused interfaces
-- ⚙️ Develop APIs and backend systems
-- 🏢 Create business and management platforms
-- 🛒 Build e-commerce and digital commerce solutions
-- 🗄️ Design and work with relational databases
-- 🌍 Develop digital solutions for businesses in Africa
+> Taking projects seamlessly from **Idea → Design → Architecture → Code → Deployment**.
 
-I enjoy taking a project from **idea → design → development → deployment**.
+<br/>
+
+| Expertise | Description |
+| :--- | :--- |
+| **🌐 Full-Stack Development** | Building robust, scalable web applications with high-performance architectures |
+| **🎨 UI/UX Interface Design** | Designing clean, responsive, accessibility-first interfaces that delight users |
+| **⚙️ APIs & Backend Systems** | Architecting RESTful APIs, business logic, and backend microservices |
+| **🏢 Operations & POS Platforms** | Developing tailored management software, inventory systems, and POS portals |
+| **🛒 E-Commerce & Payments** | Crafting multi-vendor marketplaces and secure local digital payment workflows |
+| **🗄️ Database Architecture** | Designing relational schemas, query optimizations, and database strategies |
+| **🌍 African Tech Solutions** | Building tailored digital infrastructure and products for African businesses |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & Full Stack
+<div align="center">
 
+### Backend & Databases
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
-
+### Frontend & Styling
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tools
-
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-# 🌟 Featured Work
+## 🌟 Featured Work
 
-### 🛒 SokoKenya
-
-A Kenyan multi-vendor marketplace designed around a marketplace-managed payment and order workflow.
-
-**Focus:** E-commerce · Multi-Vendor · Payments · Vendor Management · Order Management
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 SokoKenya</h3>
+      <p>A Kenyan multi-vendor marketplace platform designed around managed payment systems and escrow-style order workflows.</p>
+      <p>
+        <code>E-commerce</code> · <code>Multi-Vendor</code> · <code>Payments</code> · <code>Orders</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 ShelterBrand</h3>
+      <p>A modern, high-converting digital web presence crafted for a Kenyan branding, print production, and visual design agency.</p>
+      <p>
+        <code>Branding</code> · <code>Print Production</code> · <code>UI/UX</code> · <code>Web</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 FikaTrack</h3>
+      <p>A real-time fleet management platform enabling logistics teams to monitor route histories and telemetry live on interactive maps.</p>
+      <p>
+        <code>Fleet Tracking</code> · <code>Leaflet Maps</code> · <code>Monitoring</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Ultimate POS</h3>
+      <p>An enterprise point-of-sale system built for businesses to manage live inventory, multi-store sales, and financial reports.</p>
+      <p>
+        <code>Laravel</code> · <code>POS</code> · <code>Inventory</code> · <code>Business Ops</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎮 MchezoHub</h3>
+      <p>A web browser arcade platform aggregating responsive, classic games into an intuitive, high-performance web experience.</p>
+      <p>
+        <code>React</code> · <code>TypeScript</code> · <code>Game Engineering</code> · <code>Web APIs</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎨 ShelterBrand
-
-A modern digital presence for a Kenyan branding, printing, and graphic design company.
-
-**Focus:** Branding · Graphic Design · Printing · Business Website · UI/UX
-
----
-
-### 🚗 FikaTrack
-
-A vehicle and fleet management platform concept designed for businesses that need better visibility over their vehicles.
-
-**Focus:** Fleet Tracking · Maps · Vehicle Management · Monitoring
-
----
-
-### 💳 Ultimate POS
-
-A point-of-sale platform designed to help businesses manage sales, inventory, products, and everyday operations.
-
-**Focus:** POS · Inventory · Sales · Business Management · Laravel
-
----
-
-### 🎮 MchezoHub
-
-A browser-based game hub bringing classic and arcade-style games together in one interactive experience.
-
-**Focus:** React · TypeScript · Game Development · UI/UX · Browser APIs
-
----
-
-# 💡 What I Like Building
+## 💡 Engineering Focus & Passions
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   🌐 Web Applications                       │
-│   🏢 Business Platforms                     │
-│   🛒 E-commerce Systems                     │
-│   🎨 UI/UX-Focused Websites                 │
-│   ⚙️ APIs & Backend Systems                 │
-│   📊 Management & Operations Tools          │
-│   🚀 Digital Products                       │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-I'm especially interested in projects where **technology solves a real business problem**.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Antony-och&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="Antony's GitHub Statistics"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Antony-och&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Most Used Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Antony-och&theme=tokyonight&hide_border=true&border_radius=10"
-    height="180"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antony-och&theme=tokyonight"
-    width="100%"
-    alt="Antony's GitHub Contribution Activity"
-  />
-</p>
----
-
-# 🎯 Currently
-
-- 🔨 Building and refining full-stack applications
-- 🎨 Exploring modern UI/UX and frontend patterns
-- ⚡ Improving development workflows and architecture
-- 🧠 Expanding my technical toolkit
-- 🌍 Building technology for African businesses
-- 🚀 Turning ideas into working products
-
----
-
-# 🤝 Let's Build Something
-
-I'm always open to interesting ideas, collaborations, freelance opportunities, and projects that solve meaningful problems.
-
-<p align="center">
-
-### 💻 Build · 🎨 Design · ⚙️ Solve · 🚀 Ship
-
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for stopping by 👋</b>
-  <br>
-  <i>Building, learning, and shipping one project at a time.</i>
-</p>
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🌐 Scalable Web Platforms        🏢 Custom Management Systems        │
+│   🛒 Digital Commerce Infrastructure🎨 User-Centric Product Design      │
+│   ⚙️ High-Throughput REST APIs      📊 Real-Time Operations Dashboards    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
